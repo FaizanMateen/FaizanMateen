@@ -2,7 +2,7 @@
 
 👨‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 📫 How to reach me: mohammedfaizanmateen@gmail.com<br/>
-💭 I’m currently learning Node.js, MongoDB, SQL, Express.js<br/>
+💭 I’m currently learning React Native<br/>
 ⚡ Fun fact: From mastering Tailwind CSS to diving into Redux Toolkit, I am always chasing the next big thing in tech. 🚀📚
 
 ![Faizan's GitHub stats](https://github-readme-stats.vercel.app/api?username=faizanmateen&show_icons=true&theme=radical)
